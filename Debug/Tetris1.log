@@ -1,0 +1,15 @@
+﻿  round.cpp
+c:\users\user\documents\visual studio 2015\projects\tetris1\tetris1\round.cpp(12): warning C4551: function call missing argument list
+c:\users\user\documents\visual studio 2015\projects\tetris1\tetris1\round.cpp(20): warning C4060: switch statement contains no 'case' or 'default' labels
+  Generating Code...
+  Compiling...
+  stick.cpp
+  square.cpp
+  point.cpp
+  main.cpp
+  joker.cpp
+  game.cpp
+  bomb.cpp
+  Generating Code...
+  Tetris1.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\Tetris1\Debug\Tetris1.exe
+  Tetris1.vcxproj -> C:\Users\user\documents\visual studio 2015\Projects\Tetris1\Debug\Tetris1.pdb (Partial PDB)
